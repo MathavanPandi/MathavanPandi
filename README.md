@@ -16,6 +16,7 @@ I'm a passionate data science student with a keen interest in Machine Learning. 
 - Machine Learning
 - Python
 - SQL
+- MS Excel
 - Data Visualization
 
 ## 🌱 I’m currently learning
