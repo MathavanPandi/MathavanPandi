@@ -4,8 +4,12 @@ I'm a passionate data science student with a keen interest in Machine Learning. 
 
 ## 🔍 Featured Projects
 
-### [Project Name 1](link_to_project1)
-[Short description of project 1]
+### [MUMBAI HOUSE PRICE PREDICTION USING REGRESSION :]([link_to_project1](https://github.com/MathavanPandi/Machine-Learning-projects/tree/adfb9f4623daa8eff0a657dac56cd8c62bf9cc9e/Mumbai%20House%20Price%20Prediction))
+- Tools : Pandas, Numpy, Seaborn, Matplotlib, Sklearn
+- Gathering Data from Kaggel dataset and covert to dataframe using pandas library.
+- Visualize data using python libraries seaborn and matplotlib. Using pandas, numpy library for data preparation
+- Building a Model using lasso regression , random forest algorithms Using evalation metrics to evaluate the model perfomance.
+
 
 ### [Project Name 2](link_to_project2)
 [Short description of project 2]
